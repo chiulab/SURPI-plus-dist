@@ -13,7 +13,6 @@
 #
 SURPI_version="1.0.67"
 
-optspec=":f:hvz:"
 bold=$(tput bold)
 normal=$(tput sgr0)
 green='\e[0;32m'
@@ -21,12 +20,15 @@ red='\e[0;31m'
 endColor='\e[0m'
 
 host=$(hostname)
+reference_directory="/reference" # top level directory containing all ref data
 scriptname=${0##*/}
 
+optspec=":f:hr:vz:"
 while getopts "$optspec" option; do
 	case "${option}" in
 		f) config_file=${OPTARG};; # get parameters from config file if specified
 		h) HELP=1;;
+		r) reference_directory=${OPTARG};;
 		v) VERIFICATION=1;;
 		z)	create_config_file=${OPTARG}
 			configprefix=${create_config_file%.fastq}
@@ -51,6 +53,8 @@ This program will run the SURPI pipeline with the parameters supplied by the con
 ${bold}Command Line Switches:${normal}
 
 	-h	Show this help & ignore all other switches
+
+	-r	Specify reference directory [optional - default: "$reference_directory"]
 
 	-f	Specify config file
 
@@ -217,33 +221,36 @@ eBLASTn_filter="1e-8"
 # Reference Data
 ##########################
 
+# Base directory for all reference data.
+reference_directory="$reference_directory"
+
 # SNAP-indexed database of host genome (for subtraction phase)
 # SURPI will subtract all SNAP databases found in this directory from the input sequence
 # Useful if you want to subtract multiple genomes (without combining SNAP databases)
 # or, if you need to split a db if it is larger than available RAM.
-SNAP_subtraction_folder="/reference/snap_hg38_primate"
+SNAP_subtraction_folder="\$reference_directory/snap_hg38_primate"
 
 #Bowtie2 indexed database
-BOWTIE2_FOLDER="/reference/bowtie2_hg38/"
+BOWTIE2_FOLDER="\$reference_directory/bowtie2_hg38/"
 
 # directory for SNAP-indexed databases of NCBI NT (for mapping phase in comprehensive mode)
 # directory must ONLY contain snap indexed databases
-SNAP_COMPREHENSIVE_db_dir="/reference/COMP_SNAP_no_primate"
+SNAP_COMPREHENSIVE_db_dir="\$reference_directory/COMP_SNAP_no_primate"
 
 #Taxonomy Reference data directory
 #This folder should contain the 3 SQLite files created by the script "create_taxonomy_db.sh"
 #gi_taxid_nucl.db - nucleotide db of gi/taxonid
 #gi_taxid_prot.db - protein db of gi/taxonid
 #names_nodes_scientific.db - db of taxonid/taxonomy
-taxonomy_db_directory="/reference/taxonomy"
+taxonomy_db_directory="\$reference_directory/taxonomy"
 
 #SNAP Cleanup databases (indexed with SNAP 1.0)
-bacteria_cleanup_db="/reference/RiboClean_SNAP1.0/snap_bacteria.fa_s16"
-eukaryote_cleanup_db="/reference/RiboClean_SNAP1.0/snap_eukaryote.fa_s16"
-vector_cleanup_db="/reference/Vector_SNAP/snap_UniVec"
+bacteria_cleanup_db="\$reference_directory/RiboClean_SNAP1.0/snap_bacteria.fa_s16"
+eukaryote_cleanup_db="\$reference_directory/RiboClean_SNAP1.0/snap_eukaryote.fa_s16"
+vector_cleanup_db="\$reference_directory/Vector_SNAP/snap_UniVec"
 
 #BLAST folder containing nt database used in filtering.
-BLAST_folder="/reference/BLASTDB/"
+BLAST_folder="\$reference_directory/BLASTDB/"
 
 #Specify location of Excel template used for counttables
 excel_template="\$SCIF_APPROOT/SURPI/etc/SURPI_summary_template.xlsx"

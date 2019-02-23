@@ -97,6 +97,6 @@ cd <run folder>
 REFERENCE="<reference folder path>"
 RUN="<run folder path>"
 IMAGE="<SURPI container image path>"
-singularity run --bind "${REFERENCE},${RUN}" --app SURPI ${IMAGE} -z <fastq file>
+singularity run --bind "${REFERENCE},${RUN}" --app SURPI ${IMAGE} -r ${REFERENCE} -z <fastq file>
 singularity run --bind "${REFERENCE},${RUN}" --app SURPI ${IMAGE} -f <run config>
 ```

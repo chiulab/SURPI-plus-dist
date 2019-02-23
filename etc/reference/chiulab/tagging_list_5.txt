@@ -1,0 +1,1327 @@
+family	genus	species	host
+Anelloviridae			01|human|vertebrates
+Arenaviridae			01|human|vertebrates
+Astroviridae			01|human|vertebrates
+Bornaviridae			01|human|vertebrates
+Caliciviridae			01|human|vertebrates
+Coronaviridae			01|human|vertebrates
+Filoviridae			01|human|vertebrates
+Flaviviridae	Flavivirus	Yellow fever virus	01|human|vertebrates
+Hepadnaviridae			01|human|vertebrates
+Hepeviridae			01|human|vertebrates
+Herpesviridae			01|human|vertebrates
+Papillomaviridae			01|human|vertebrates
+Paramyxoviridae			01|human|vertebrates
+Parvoviridae	Dependoparvovirus		01|human|vertebrates
+Picobirnaviridae			01|human|vertebrates
+Picornaviridae			01|human|vertebrates
+Polyomaviridae			01|human|vertebrates
+Retroviridae			01|human|vertebrates
+Rhabdoviridae		Bas-Congo virus	01|human|vertebrates
+Togaviridae	Alphavirus	Sindbis virus	01|human|vertebrates
+	Alphacoronavirus		01|human|vertebrates
+	Alphapapillomavirus		01|human|vertebrates
+	Alphatorquevirus		01|human|vertebrates
+	Arenavirus		01|human|vertebrates
+	Betacoronavirus		01|human|vertebrates
+	Betapapillomavirus		01|human|vertebrates
+	Betatorquevirus		01|human|vertebrates
+	Bocaparvovirus		01|human|vertebrates
+	Bornavirus		01|human|vertebrates
+	Cardiovirus		01|human|vertebrates
+	Cosavirus		01|human|vertebrates
+	Cytomegalovirus		01|human|vertebrates
+	Deltavirus		01|human|vertebrates
+	Ebolavirus		01|human|vertebrates
+	Enterovirus		01|human|vertebrates
+	Erythroparvovirus		01|human|vertebrates
+	Gammacoronavirus		01|human|vertebrates
+	Gammatorquevirus		01|human|vertebrates
+	Hantavirus		01|human|vertebrates
+	Henipavirus		01|human|vertebrates
+	Hepacivirus		01|human|vertebrates
+	Hepatovirus		01|human|vertebrates
+	Hepevirus		01|human|vertebrates
+	Influenzavirus A		01|human|vertebrates
+	Influenzavirus B		01|human|vertebrates
+	Influenzavirus C		01|human|vertebrates
+	Kobuvirus		01|human|vertebrates
+	Lentivirus		01|human|vertebrates
+	Lymphocryptovirus		01|human|vertebrates
+	Lyssavirus		01|human|vertebrates
+	Mamastrovirus		01|human|vertebrates
+	Marburgvirus		01|human|vertebrates
+	Mastadenovirus		01|human|vertebrates
+	Metapneumovirus		01|human|vertebrates
+	Molluscipoxvirus		01|human|vertebrates
+	Morbillivirus		01|human|vertebrates
+	Norovirus		01|human|vertebrates
+	Orthohepadnavirus		01|human|vertebrates
+	Orthopoxvirus		01|human|vertebrates
+	Parapoxvirus		01|human|vertebrates
+	Parechovirus		01|human|vertebrates
+	Pegivirus		01|human|vertebrates
+	Picobirnavirus		01|human|vertebrates
+	Pneumovirus		01|human|vertebrates
+	Polyomavirus		01|human|vertebrates
+	Protoparvovirus		01|human|vertebrates
+	Quaranjavirus		01|human|vertebrates
+	Respirovirus		01|human|vertebrates
+	Rhadinovirus		01|human|vertebrates
+	Roseolovirus		01|human|vertebrates
+	Rotavirus		01|human|vertebrates
+	Rubivirus		01|human|vertebrates
+	Rubulavirus		01|human|vertebrates
+	Salivirus		01|human|vertebrates
+	Sapovirus		01|human|vertebrates
+	Seadornavirus		01|human|vertebrates
+	Simplexvirus		01|human|vertebrates
+	Varicellovirus		01|human|vertebrates
+	Yatapoxvirus		01|human|vertebrates
+Adenoviridae			02|vertebrates
+Alloherpesviridae			02|vertebrates
+Arteriviridae			02|vertebrates
+Asfarviridae			02|vertebrates
+Bidnaviridae			02|vertebrates
+Circoviridae	Circovirus	Porcine circovirus-1	02|vertebrates
+Coronaviridae	Betacoronavirus	Murine coronavirus	02|vertebrates
+Coronaviridae	Gammacoronavirus	Avian coronavirus	02|vertebrates
+Herpesviridae	Rhadinovirus	Saimiriine herpesvirus 2	02|vertebrates
+Nodaviridae			02|vertebrates
+Papillomaviridae	Alphapapillomavirus	Alphapapillomavirus 1	02|vertebrates
+Paramyxoviridae	Metapneumovirus	Avian metapneumovirus	02|vertebrates
+Parvoviridae	Protoparvovirus	Rodent protoparvovirus 1	02|vertebrates
+Poxviridae	Molluscipoxvirus	Molluscum contagiosum virus	02|vertebrates
+Poxviridae	Orthopoxvirus	Monkeypox virus	02|vertebrates
+Retroviridae	Lentivirus	Simian immunodeficiency virus	02|vertebrates
+	Alphanodavirus		02|vertebrates
+	Alpharetrovirus		02|vertebrates
+	Amdoparvovirus		02|vertebrates
+	Aphthovirus		02|vertebrates
+	Aquabirnavirus		02|vertebrates
+	Aquamavirus		02|vertebrates
+	Aquaparamyxovirus		02|vertebrates
+	Aquareovirus		02|vertebrates
+	Arterivirus		02|vertebrates
+	Asfivirus		02|vertebrates
+	Atadenovirus		02|vertebrates
+	Avastrovirus		02|vertebrates
+	Aviadenovirus		02|vertebrates
+	Avibirnavirus		02|vertebrates
+	Avihepadnavirus		02|vertebrates
+	Avihepatovirus		02|vertebrates
+	Avipoxvirus		02|vertebrates
+	Avulavirus		02|vertebrates
+	Bafinivirus		02|vertebrates
+	Batrachovirus		02|vertebrates
+	Betanodavirus		02|vertebrates
+	Betaretrovirus		02|vertebrates
+	Bidensovirus		02|vertebrates
+	Blosnavirus		02|vertebrates
+	Capripoxvirus		02|vertebrates
+	Cervidpoxvirus		02|vertebrates
+	Chipapillomavirus		02|vertebrates
+	Crocodylidpoxvirus		02|vertebrates
+	Cyprinivirus		02|vertebrates
+	Deltacoronavirus		02|vertebrates
+	Deltapapillomavirus		02|vertebrates
+	Deltaretrovirus		02|vertebrates
+	Deltatorquevirus		02|vertebrates
+	Dicipivirus		02|vertebrates
+	Dyodeltapapillomavirus		02|vertebrates
+	Dyoepsilonpapillomavirus		02|vertebrates
+	Dyoetapapillomavirus		02|vertebrates
+	Dyoiotapapillomavirus		02|vertebrates
+	Dyothetapapillomavirus		02|vertebrates
+	Dyozetapapillomavirus		02|vertebrates
+	Ephemerovirus		02|vertebrates
+	Epsilonpapillomavirus		02|vertebrates
+	Epsilonretrovirus		02|vertebrates
+	Epsilontorquevirus		02|vertebrates
+	Erbovirus		02|vertebrates
+	Etapapillomavirus		02|vertebrates
+	Etatorquevirus		02|vertebrates
+	Ferlavirus		02|vertebrates
+	Gammapapillomavirus		02|vertebrates
+	Gammaretrovirus		02|vertebrates
+	Gyrovirus		02|vertebrates
+	Ichtadenovirus		02|vertebrates
+	Ictalurivirus		02|vertebrates
+	Iltovirus		02|vertebrates
+	Iotapapillomavirus		02|vertebrates
+	Iotatorquevirus		02|vertebrates
+	Isavirus		02|vertebrates
+	Kappapapillomavirus		02|vertebrates
+	Kappatorquevirus		02|vertebrates
+	Lagovirus		02|vertebrates
+	Lambdapapillomavirus		02|vertebrates
+	Lambdatorquevirus		02|vertebrates
+	Leporipoxvirus		02|vertebrates
+	Lymphocystivirus		02|vertebrates
+	Macavirus		02|vertebrates
+	Mardivirus		02|vertebrates
+	Megalocytivirus		02|vertebrates
+	Megrivirus		02|vertebrates
+	Mupapillomavirus		02|vertebrates
+	Muromegalovirus		02|vertebrates
+	Nebovirus		02|vertebrates
+	Novirhabdovirus		02|vertebrates
+	Nupapillomavirus		02|vertebrates
+	Omegapapillomavirus		02|vertebrates
+	Omikronpapillomavirus		02|vertebrates
+	Orbivirus		02|vertebrates
+	Orthoreovirus		02|vertebrates
+	Percavirus		02|vertebrates
+	Pestivirus		02|vertebrates
+	Phipapillomavirus		02|vertebrates
+	Pipapillomavirus		02|vertebrates
+	Proboscivirus		02|vertebrates
+	Psipapillomavirus		02|vertebrates
+	Ranavirus		02|vertebrates
+	Rhopapillomavirus		02|vertebrates
+	Salmonivirus		02|vertebrates
+	Sapelovirus		02|vertebrates
+	Scutavirus		02|vertebrates
+	Senecavirus		02|vertebrates
+	Siadenovirus		02|vertebrates
+	Sigmapapillomavirus		02|vertebrates
+	Spumavirus		02|vertebrates
+	Suipoxvirus		02|vertebrates
+	Taupapillomavirus		02|vertebrates
+	Teschovirus		02|vertebrates
+	Thetapapillomavirus		02|vertebrates
+	Thetatorquevirus		02|vertebrates
+	Tibrovirus		02|vertebrates
+	Torovirus		02|vertebrates
+	Tremovirus		02|vertebrates
+	Upsilonpapillomavirus		02|vertebrates
+	Vesiculovirus		02|vertebrates
+	Vesivirus		02|vertebrates
+	Xipapillomavirus		02|vertebrates
+	Zetapapillomavirus		02|vertebrates
+	Zetatorquevirus		02|vertebrates
+Bunyaviridae			03|human|invertebrates|plants|vertebrates
+Flaviviridae			04|human|invertebrates|vertebrates
+Orthomyxoviridae			04|human|invertebrates|vertebrates
+Parvoviridae			04|human|invertebrates|vertebrates
+Poxviridae			04|human|invertebrates|vertebrates
+Rhabdoviridae			04|human|invertebrates|vertebrates
+Togaviridae			04|human|invertebrates|vertebrates
+	Alphavirus		04|human|invertebrates|vertebrates
+	Coltivirus		04|human|invertebrates|vertebrates
+	Flavivirus		04|human|invertebrates|vertebrates
+	Orthobunyavirus		04|human|invertebrates|vertebrates
+	Thogotovirus		04|human|invertebrates|vertebrates
+Reoviridae			05|human|invertebrates|vertebrates|unicellular_eukaryote|plant
+Birnaviridae			06|invertebrates|vertebrates
+Bunyaviridae	Orthobunyavirus	California encephalitis virus	06|invertebrates|vertebrates
+Circoviridae			06|invertebrates|vertebrates
+Iridoviridae			06|invertebrates|vertebrates
+Togaviridae	Alphavirus	Venezuelan equine encephalitis virus	06|invertebrates|vertebrates
+Togaviridae	Alphavirus	Western equine encephalitis virus	06|invertebrates|vertebrates
+	Circovirus		06|invertebrates|vertebrates
+	Nairovirus		06|invertebrates|vertebrates
+	Phlebovirus		06|invertebrates|vertebrates
+Alphatetraviridae			07|invertebrates
+Ascoviridae			07|invertebrates
+Baculoviridae			07|invertebrates
+Carmotetraviridae			07|invertebrates
+Dicistroviridae			07|invertebrates
+Hytrosaviridae			07|invertebrates
+Iflaviridae			07|invertebrates
+Malacoherpesviridae			07|invertebrates
+Mesoniviridae			07|invertebrates
+Nimaviridae			07|invertebrates
+Parvoviridae	Ambidensovirus		07|invertebrates
+Permutotetraviridae			07|invertebrates
+Polydnaviridae			07|invertebrates
+Roniviridae			07|invertebrates
+	Alphabaculovirus		07|invertebrates
+	Alphacarmotetravirus		07|invertebrates
+	Alphaentomopoxvirus		07|invertebrates
+	Alphamesonivirus		07|invertebrates
+	Alphapermutotetravirus		07|invertebrates
+	Aparavirus		07|invertebrates
+	Ascovirus		07|invertebrates
+	Aurivirus		07|invertebrates
+	Betabaculovirus		07|invertebrates
+	Betaentomopoxvirus		07|invertebrates
+	Betatetravirus		07|invertebrates
+	Bracovirus		07|invertebrates
+	Brevidensovirus		07|invertebrates
+	Cardoreovirus		07|invertebrates
+	Chloriridovirus		07|invertebrates
+	Cripavirus		07|invertebrates
+	Cypovirus		07|invertebrates
+	Deltabaculovirus		07|invertebrates
+	Dinovernavirus		07|invertebrates
+	Entomobirnavirus		07|invertebrates
+	Errantivirus		07|invertebrates
+	Gammabaculovirus		07|invertebrates
+	Glossinavirus		07|invertebrates
+	Ichnovirus		07|invertebrates
+	Idnoreovirus		07|invertebrates
+	Iflavirus		07|invertebrates
+	Iridovirus		07|invertebrates
+	Iteradensovirus		07|invertebrates
+	Muscavirus		07|invertebrates
+	Okavirus		07|invertebrates
+	Omegatetravirus		07|invertebrates
+	Ostreavirus		07|invertebrates
+	Sigmavirus		07|invertebrates
+	Whispovirus		07|invertebrates
+	Cryspovirus		08|apicomplexans
+Chrysoviridae			09|fungi
+Hypoviridae			09|fungi
+Megabirnaviridae			09|fungi
+Narnaviridae			09|fungi
+Partitiviridae	Betapartitivirus		09|fungi
+Partitiviridae	Gammapartitivirus		09|fungi
+	Chrysovirus		09|fungi
+	Hypovirus		09|fungi
+	Megabirnavirus		09|fungi
+	Metavirus		09|fungi
+	Mitovirus		09|fungi
+	Narnavirus		09|fungi
+Mimiviridae			10|protozoa
+	Cafeteriavirus		10|protozoa
+	Mimivirus		10|protozoa
+Metaviridae			12|fungi|invertebrates
+Alvernaviridae			13|unicellular_eukaryote
+Totiviridae			13|unicellular_eukaryote
+	Bacilladnavirus		13|unicellular_eukaryote
+	Bacillarnavirus		13|unicellular_eukaryote
+	Chlorovirus		13|unicellular_eukaryote
+	Dinodnavirus		13|unicellular_eukaryote
+	Dinornavirus		13|unicellular_eukaryote
+	Giardiavirus		13|unicellular_eukaryote
+	Labyrnavirus		13|unicellular_eukaryote
+	Leishmaniavirus		13|unicellular_eukaryote
+	Mimoreovirus		13|unicellular_eukaryote
+	Mycoreovirus		13|unicellular_eukaryote
+	Rhizidiovirus		13|unicellular_eukaryote
+	Totivirus		13|unicellular_eukaryote
+	Trichomonasvirus		13|unicellular_eukaryote
+	Victorivirus		13|unicellular_eukaryote
+Partitiviridae			14|apicomplexans|fungi|plants
+Phycodnaviridae			15|algae|plant|unicellular_eukaryote
+	Coccolithovirus		16|algae
+Alphaflexiviridae			17|plants
+Avsunviroidae			17|plants
+Barnaviridae			17|plants
+Betaflexiviridae			17|plants
+Bromoviridae			17|plants
+Caulimoviridae			17|plants
+Luteoviridae			17|plants
+Marnaviridae			17|plants
+Nanoviridae			17|plants
+Ophioviridae			17|plants
+Pospiviroidae			17|plants
+Potyviridae			17|plants
+Quadriviridae			17|plants
+Secoviridae			17|plants
+Tombusviridae			17|plants
+Tymoviridae			17|plants
+Virgaviridae			17|plants
+	Alfamovirus		17|plants
+	Allexivirus		17|plants
+	Alphanecrovirus		17|plants
+	Alphapartitivirus		17|plants
+	Ampelovirus		17|plants
+	Anulavirus		17|plants
+	Apscaviroid		17|plants
+	Aureusvirus		17|plants
+	Avenavirus		17|plants
+	Avsunviroid		17|plants
+	Babuvirus		17|plants
+	Badnavirus		17|plants
+	Barnavirus		17|plants
+	Becurtovirus		17|plants
+	Begomovirus		17|plants
+	Benyvirus		17|plants
+	Betanecrovirus		17|plants
+	Botrexvirus		17|plants
+	Brambyvirus		17|plants
+	Bromovirus		17|plants
+	Bymovirus		17|plants
+	Capillovirus		17|plants
+	Carlavirus		17|plants
+	Carmovirus		17|plants
+	Caulimovirus		17|plants
+	Cavemovirus		17|plants
+	Cheravirus		17|plants
+	Cilevirus		17|plants
+	Citrivirus		17|plants
+	Closterovirus		17|plants
+	Cocadviroid		17|plants
+	Coleviroid		17|plants
+	Comovirus		17|plants
+	Crinivirus		17|plants
+	Cucumovirus		17|plants
+	Curtovirus		17|plants
+	Cytorhabdovirus		17|plants
+	Deltapartitivirus		17|plants
+	Dianthovirus		17|plants
+	Elaviroid		17|plants
+	Emaravirus		17|plants
+	Enamovirus		17|plants
+	Endornavirus		17|plants
+	Eragrovirus		17|plants
+	Fabavirus		17|plants
+	Fijivirus		17|plants
+	Foveavirus		17|plants
+	Furovirus		17|plants
+	Gallantivirus		17|plants
+	Hordeivirus		17|plants
+	Hostuviroid		17|plants
+	Idaeovirus		17|plants
+	Ilarvirus		17|plants
+	Ipomovirus		17|plants
+	Lolavirus		17|plants
+	Luteovirus		17|plants
+	Macanavirus		17|plants
+	Machlomovirus		17|plants
+	Macluravirus		17|plants
+	Maculavirus		17|plants
+	Mandarivirus		17|plants
+	Marafivirus		17|plants
+	Marnavirus		17|plants
+	Mastrevirus		17|plants
+	Mycoflexivirus		17|plants
+	Nanovirus		17|plants
+	Nepovirus		17|plants
+	Nucleorhabdovirus		17|plants
+	Oleavirus		17|plants
+	Ophiovirus		17|plants
+	Oryzavirus		17|plants
+	Ourmiavirus		17|plants
+	Panicovirus		17|plants
+	Pecluvirus		17|plants
+	Pelamoviroid		17|plants
+	Perhabdovirus		17|plants
+	Petuvirus		17|plants
+	Phaeovirus		17|plants
+	Phytoreovirus		17|plants
+	Poacevirus		17|plants
+	Polemovirus		17|plants
+	Polerovirus		17|plants
+	Pomovirus		17|plants
+	Pospiviroid		17|plants
+	Potexvirus		17|plants
+	Potyvirus		17|plants
+	Prasinovirus		17|plants
+	Prymnesiovirus		17|plants
+	Quadrivirus		17|plants
+	Raphidovirus		17|plants
+	Rymovirus		17|plants
+	Sadwavirus		17|plants
+	Sclerodarnavirus		17|plants
+	Sequivirus		17|plants
+	Sobemovirus		17|plants
+	Solendovirus		17|plants
+	Soymovirus		17|plants
+	Tenuivirus		17|plants
+	Tepovirus		17|plants
+	Tobamovirus		17|plants
+	Tobravirus		17|plants
+	Tombusvirus		17|plants
+	Topocuvirus		17|plants
+	Torradovirus		17|plants
+	Tospovirus		17|plants
+	Trichovirus		17|plants
+	Tritimovirus		17|plants
+	Tungrovirus		17|plants
+	Turncurtovirus		17|plants
+	Tymovirus		17|plants
+	Umbravirus		17|plants
+	Varicosavirus		17|plants
+	Vitivirus		17|plants
+	Waikavirus		17|plants
+	Zeavirus		17|plants
+Ampullaviridae			18|archaea
+Bicaudaviridae			18|archaea
+Clavaviridae			18|archaea
+Fuselloviridae			18|archaea
+Globuloviridae			18|archaea
+Guttaviridae			18|archaea
+Lipothrixviridae			18|archaea
+Rudiviridae			18|archaea
+	Alphafusellovirus		18|archaea
+	Alphalipothrixvirus		18|archaea
+	Ampullavirus		18|archaea
+	Betafusellovirus		18|archaea
+	Betaguttavirus		18|archaea
+	Betalipothrixvirus		18|archaea
+	Bicaudavirus		18|archaea
+	Clavavirus		18|archaea
+	Deltalipothrixvirus		18|archaea
+	Gammalipothrixvirus		18|archaea
+	Globulovirus		18|archaea
+	Rudivirus		18|archaea
+	Salterprovirus		18|archaea
+Corticoviridae			19|bacteria
+Cystoviridae			19|bacteria
+Inoviridae			19|bacteria
+Leviviridae			19|bacteria
+Microviridae			19|bacteria
+Myoviridae			19|bacteria
+Plasmaviridae			19|bacteria
+Podoviridae			19|bacteria
+Siphoviridae			19|bacteria
+Tectiviridae			19|bacteria
+	Ahjdlikevirus		19|bacteria
+	Allolevivirus		19|bacteria
+	Bcep78likevirus		19|bacteria
+	Bcepmulikevirus		19|bacteria
+	Bdellomicrovirus		19|bacteria
+	Bppunalikevirus		19|bacteria
+	C2likevirus		19|bacteria
+	Chlamydiamicrovirus		19|bacteria
+	Corticovirus		19|bacteria
+	Cystovirus		19|bacteria
+	Epsilon15likevirus		19|bacteria
+	Felixounalikevirus		19|bacteria
+	Hapunalikevirus		19|bacteria
+	Hpunalikevirus		19|bacteria
+	I3likevirus		19|bacteria
+	Inovirus		19|bacteria
+	L5likevirus		19|bacteria
+	Lambdalikevirus		19|bacteria
+	Levivirus		19|bacteria
+	Luz24likevirus		19|bacteria
+	Microvirus		19|bacteria
+	Mulikevirus		19|bacteria
+	N15likevirus		19|bacteria
+	N4likevirus		19|bacteria
+	P22likevirus		19|bacteria
+	P2likevirus		19|bacteria
+	Pbunalikevirus		19|bacteria
+	Phi29likevirus		19|bacteria
+	Phic3unalikevirus		19|bacteria
+	PhiCD119likevirus		19|bacteria
+	Phieco32likevirus		19|bacteria
+	Phihlikevirus		19|bacteria
+	Phikmvlikevirus		19|bacteria
+	Phikzlikevirus		19|bacteria
+	Plasmavirus		19|bacteria
+	Plectrovirus		19|bacteria
+	Psimunalikevirus		19|bacteria
+	Punalikevirus		19|bacteria
+	Schizot4likevirus		19|bacteria
+	Sp6likevirus		19|bacteria
+	Spbetalikevirus		19|bacteria
+	Spiromicrovirus		19|bacteria
+	Spounalikevirus		19|bacteria
+	T4likevirus		19|bacteria
+	T7likevirus		19|bacteria
+	Tectivirus		19|bacteria
+	Tunalikevirus		19|bacteria
+	Twortlikevirus		19|bacteria
+	Viunalikevirus		19|bacteria
+	Yualikevirus		19|bacteria
+		Acinetobacter phage AB1	19|bacteria
+		Acinetobacter phage ABP-01	19|bacteria
+		Acinetobacter phage ABP-04	19|bacteria
+		Acinetobacter phage IME_AB3	19|bacteria
+		Acinetobacter phage IME-AB2	19|bacteria
+		Acinetobacter phage phiAB2	19|bacteria
+		Acinetobacter phage RL-2015	19|bacteria
+		Acropora pruinosa phage	19|bacteria
+		Aeromonas phage DH1	19|bacteria
+		Aggregatibacter phage Aabphi01	19|bacteria
+		Alkalimonas phage phiMOD2.32-OM	19|bacteria
+		Alkalimonas phage phiMOD3.20-OM	19|bacteria
+		Alkalimonas phage phiMOL1.4-NB	19|bacteria
+		Alkalimonas phage phiMOL1.4-ST	19|bacteria
+		Alkalimonas phage phiMOM3.2-OM	19|bacteria
+		Alkalimonas phage phiMOM3.3-MOD2	19|bacteria
+		APSE phage Eptesicus fuscus/P5/IT/USA/2009	19|bacteria
+		Aurantimonas phage AmM-1	19|bacteria
+		Bacillus phage 11143	19|bacteria
+		Bacillus phage 12826	19|bacteria
+		Bacillus phage apl1	19|bacteria
+		Bacillus phage bg1	19|bacteria
+		Bacillus phage bg2	19|bacteria
+		Bacillus phage bg3	19|bacteria
+		Bacillus phage BMBtpLA	19|bacteria
+		Bacillus phage BSNPO1	19|bacteria
+		Bacillus phage Frp2	19|bacteria
+		Bacillus phage Grass	19|bacteria
+		Bacillus phage Htp1	19|bacteria
+		Bacillus phage lambda Ba01	19|bacteria
+		Bacillus phage lambda Ba02	19|bacteria
+		Bacillus phage lambda Ba03	19|bacteria
+		Bacillus phage lambda Ba04	19|bacteria
+		Bacillus phage phBC6A51	19|bacteria
+		Bacillus phage phBC6A52	19|bacteria
+		Bacillus phage phiBTP	19|bacteria
+		Bacillus phage phiNIT1	19|bacteria
+		Bacillus phage PN1	19|bacteria
+		Bacillus phage PN11	19|bacteria
+		Bacillus phage PN19	19|bacteria
+		Bacillus phage PN2	19|bacteria
+		Bacillus phage PN5	19|bacteria
+		Bacillus phage PY	19|bacteria
+		Bacillus phage SPG24	19|bacteria
+		Bacillus phage ST1	19|bacteria
+		Bacillus phage ST5	19|bacteria
+		Bacillus phage ST6	19|bacteria
+		Bacillus phage ST7	19|bacteria
+		Bacillus phage TP21	19|bacteria
+		Bacillus phage Wip2	19|bacteria
+		Bacillus phage Wip4	19|bacteria
+		Bacillus thuringiensis phage MZTP02	19|bacteria
+		Bartonella henselae phage	19|bacteria
+		Bartonella henselae phage 60457	19|bacteria
+		Bartonella quintana phage	19|bacteria
+		Bifidobacterium phage Bbif-1	19|bacteria
+		Brucella phage PSu-2010	19|bacteria
+		Burkholderia phage 644-2	19|bacteria
+		Burkholderia phage E12-2	19|bacteria
+		Burkholderia phage E202	19|bacteria
+		Burkholderia phage E255	19|bacteria
+		Campylobacter phage CGC-2007	19|bacteria
+		Campylobacter phage CJIE4-1	19|bacteria
+		Campylobacter phage CJIE4-2	19|bacteria
+		Campylobacter phage CJIE4-3	19|bacteria
+		Campylobacter phage CJIE4-4	19|bacteria
+		Campylobacter phage CJIE4-5	19|bacteria
+		Campylobacter phage PC14	19|bacteria
+		Campylobacter phage PC17	19|bacteria
+		Campylobacter phage PC35	19|bacteria
+		Campylobacter phage PC48	19|bacteria
+		Campylobacter phage PC5	19|bacteria
+		Campylobacter phage PK80	19|bacteria
+		Campylobacter phage PK83	19|bacteria
+		Campylobacter phage PM1	19|bacteria
+		Campylobacter phage PM5	19|bacteria
+		Celeribacter phage P12053L	19|bacteria
+		Cellulophaga phage phi48:2	19|bacteria
+		Citrobacter phage Moon	19|bacteria
+		Clavibacter phage CN77	19|bacteria
+		Clostridium limosum phage	19|bacteria
+		Clostridium phage d-16 phi	19|bacteria
+		Clostridium phage D-1873	19|bacteria
+		Clostridium phage phiCT19406A	19|bacteria
+		Clostridium phage phiCT19406B	19|bacteria
+		Clostridium phage phiCT19406C	19|bacteria
+		Clostridium phage phiCT453A	19|bacteria
+		Clostridium phage phiCT453B	19|bacteria
+		Clostridium phage phiCT9441A	19|bacteria
+		Clostridium phage phiCTC2A	19|bacteria
+		Clostridium phage phiCTC2B	19|bacteria
+		Clostridium phage phiSM101	19|bacteria
+		Colitis phage	19|bacteria
+		Corynebacterium diphtheriae phage	19|bacteria
+		Cronobacter phage ES2	19|bacteria
+		Cronobacter phage ESSI-2	19|bacteria
+		Deep-sea thermophilic phage D6E	19|bacteria
+		Edwardsiella phage eiDWF	19|bacteria
+		Edwardsiella phage eiMSLS	19|bacteria
+		Edwardsiella phage PEi20	19|bacteria
+		Edwardsiella phage PEi26	19|bacteria
+		Enterobacter phage phiEap-1	19|bacteria
+		Enterobacteria phage 020324	19|bacteria
+		Enterobacteria phage 6220	19|bacteria
+		Enterobacteria phage 933J	19|bacteria
+		Enterobacteria phage A312	19|bacteria
+		Enterobacteria phage A315	19|bacteria
+		Enterobacteria phage A397	19|bacteria
+		Enterobacteria phage A534	19|bacteria
+		Enterobacteria phage A549	19|bacteria
+		Enterobacteria phage A557	19|bacteria
+		Enterobacteria phage A580	19|bacteria
+		Enterobacteria phage A75	19|bacteria
+		Enterobacteria phage BR2	19|bacteria
+		Enterobacteria phage C-1	19|bacteria
+		Enterobacteria phage C1.2	19|bacteria
+		Enterobacteria phage C14	19|bacteria
+		Enterobacteria phage CL707	19|bacteria
+		Enterobacteria phage CP-1639	19|bacteria
+		Enterobacteria phage ECBP5	19|bacteria
+		Enterobacteria phage F3	19|bacteria
+		Enterobacteria phage F5	19|bacteria
+		Enterobacteria phage F6	19|bacteria
+		Enterobacteria phage FIZ15	19|bacteria
+		Enterobacteria phage GV2412	19|bacteria
+		Enterobacteria phage GV8	19|bacteria
+		Enterobacteria phage HK244	19|bacteria
+		Enterobacteria phage IME_EC2	19|bacteria
+		Enterobacteria phage IP008	19|bacteria
+		Enterobacteria phage K1A	19|bacteria
+		Enterobacteria phage L	19|bacteria
+		Enterobacteria phage L1	19|bacteria
+		Enterobacteria phage L34	19|bacteria
+		Enterobacteria phage Lahn1	19|bacteria
+		Enterobacteria phage Lahn3	19|bacteria
+		Enterobacteria phage LC159	19|bacteria
+		Enterobacteria phage Ly1	19|bacteria
+		Enterobacteria phage M13 vector DY3F63	19|bacteria
+		Enterobacteria phage mEp021	19|bacteria
+		Enterobacteria phage mEp234	19|bacteria
+		Enterobacteria phage mEp332	19|bacteria
+		Enterobacteria phage Nil3	19|bacteria
+		Enterobacteria phage O157-292	19|bacteria
+		Enterobacteria phage O157-310	19|bacteria
+		Enterobacteria phage O157-330	19|bacteria
+		Enterobacteria phage O157-379	19|bacteria
+		Enterobacteria phage O157-469	19|bacteria
+		Enterobacteria phage O157-572	19|bacteria
+		Enterobacteria phage phi50	19|bacteria
+		Enterobacteria phage RB4	19|bacteria
+		Enterobacteria phage SC370	19|bacteria
+		Enterobacteria phage T5-A1	19|bacteria
+		Enterobacteria phage T5-D1	19|bacteria
+		Enterobacteria phage V11	19|bacteria
+		Enterobacteria phage vB_EcoM-VR20	19|bacteria
+		Enterobacteria phage vB_EcoM-VR5	19|bacteria
+		Enterobacteria phage VT1-Sakai	19|bacteria
+		Enterobacteria phage YYZ-2008	19|bacteria
+		Enterobacteriaceae phage S-394	19|bacteria
+		Enterococcus phage BE2/ARG/2005	19|bacteria
+		Enterococcus phage EF62phi	19|bacteria
+		Enterococcus phage MSF1	19|bacteria
+		Enterococcus phage UC1ENC	19|bacteria
+		Equine faecal phage	19|bacteria
+		Erwinia phage Ea4	19|bacteria
+		Erwinia phage Ea7	19|bacteria
+		Erwinia phage GR-2012	19|bacteria
+		Erwinia phage phiAT1	19|bacteria
+		Erwinia phage phiEa116	19|bacteria
+		Escherichia coli O157 typing phage 1	19|bacteria
+		Escherichia coli O157 typing phage 10	19|bacteria
+		Escherichia coli O157 typing phage 11	19|bacteria
+		Escherichia coli O157 typing phage 12	19|bacteria
+		Escherichia coli O157 typing phage 13	19|bacteria
+		Escherichia coli O157 typing phage 14	19|bacteria
+		Escherichia coli O157 typing phage 15	19|bacteria
+		Escherichia coli O157 typing phage 3	19|bacteria
+		Escherichia coli O157 typing phage 4	19|bacteria
+		Escherichia coli O157 typing phage 5	19|bacteria
+		Escherichia coli O157 typing phage 6	19|bacteria
+		Escherichia coli O157 typing phage 7	19|bacteria
+		Escherichia coli O157 typing phage 8	19|bacteria
+		Escherichia coli O157 typing phage 9	19|bacteria
+		Escherichia coli phage EH297	19|bacteria
+		Escherichia phage 1720a-02	19|bacteria
+		Escherichia phage 434	19|bacteria
+		Escherichia phage CBA6	19|bacteria
+		Escherichia phage CEV1	19|bacteria
+		Escherichia phage EEVP	19|bacteria
+		Escherichia phage fi125	19|bacteria
+		Escherichia phage JLK-2012	19|bacteria
+		Escherichia phage phi-8	19|bacteria
+		Escherichia phage Phi05_1387 B	19|bacteria
+		Escherichia phage Phi05_1999 B	19|bacteria
+		Escherichia phage Phi05_2388 B	19|bacteria
+		Escherichia phage Phi06_2974 B	19|bacteria
+		Escherichia phage Phi06_2987 S	19|bacteria
+		Escherichia phage phi170	19|bacteria
+		Escherichia Stx1-converting recombinant phage HUN/2013	19|bacteria
+		Eupelmus vesicularis secondary endosymbiont phage	19|bacteria
+		Filamentous phage	19|bacteria
+		Filamentous phage cloning vector fd-tet	19|bacteria
+		Filamentous phage display vector c8-4	19|bacteria
+		Filamentous phage display vector f37-AviTag	19|bacteria
+		Filamentous phage display vector f8-1	19|bacteria
+		Filamentous phage display vector f8-5	19|bacteria
+		Filamentous phage display vector f88-4	19|bacteria
+		Filamentous phage display vector fMCS1	19|bacteria
+		Filamentous phage display vector fUSE5	19|bacteria
+		Filamentous phage display vector G1 fUSE5	19|bacteria
+		Filamentous phage display vector MSH-2 fUSE5	19|bacteria
+		Flavobacterium phage 6H	19|bacteria
+		Flavobacterium phage FCV-1	19|bacteria
+		Flavobacterium phage FKj-2	19|bacteria
+		Flavobacterium phage FL-1	19|bacteria
+		Geobacillus phage GBSV1	19|bacteria
+		Haloarcula phage SH1	19|bacteria
+		Halomonas phage phiNB2ah-NB	19|bacteria
+		Halomonas phage phiNB5ah-OM	19|bacteria
+		Halomonas phage phiNB5ah-ST	19|bacteria
+		Halorubrum phage CGphi46	19|bacteria
+		Halorubrum phage GNf2	19|bacteria
+		Halorubrum phage HF2	19|bacteria
+		Hybrid phage HybP-Knphi	19|bacteria
+		Idiomarinaceae phage 1N2-2	19|bacteria
+		Idiomarinaceae phage phiOM2-OM	19|bacteria
+		Klebsiella phage Kpn112	19|bacteria
+		Klebsiella phage KPP95	19|bacteria
+		Klebsiella phage PhiKPN	19|bacteria
+		Klebsiella phage phiKpp-1	19|bacteria
+		Lactobacillus casei phage Lca1	19|bacteria
+		Lactobacillus phage AI15	19|bacteria
+		Lactobacillus phage EV3	19|bacteria
+		Lactobacillus phage f-0303	19|bacteria
+		Lactobacillus phage f-AQ113	19|bacteria
+		Lactobacillus phage LfeInf	19|bacteria
+		Lactobacillus phage LfeSau	19|bacteria
+		Lactobacillus phage mv1	19|bacteria
+		Lactobacillus phage mv4	19|bacteria
+		Lactobacillus phage phigaY	19|bacteria
+		Lactobacillus phage Sal1	19|bacteria
+		Lactobacillus phage Sal2	19|bacteria
+		Lactobacillus phage Sal3	19|bacteria
+		Lactobacillus phage Sal4	19|bacteria
+		Lactococcus lactis phage phi 197	19|bacteria
+		Lactococcus phage	19|bacteria
+		Lactococcus phage (ISOLATE 7-9)	19|bacteria
+		Lactococcus phage 409	19|bacteria
+		Lactococcus phage eb1	19|bacteria
+		Lactococcus phage F7/2	19|bacteria
+		Lactococcus phage mi7-9	19|bacteria
+		Lactococcus phage Q42	19|bacteria
+		Lactococcus phage Q44	19|bacteria
+		Lactococcus phage Q7	19|bacteria
+		Lambdoid phage HB-4	19|bacteria
+		Leptospira phage vB_LalZ_80412-LE1	19|bacteria
+		Leptospira phage vB_LbrZ_5399-LE1	19|bacteria
+		Leptospira phage vB_LinZ_10-LE1	19|bacteria
+		Leptospira phage vb_LkmZ_Bejolso9-LE1	19|bacteria
+		Leptospira phage vB_LnoZ_CZ214-LE1	19|bacteria
+		Leuconostoc phage 1 HN-2013	19|bacteria
+		Leuconostoc phage 10MC	19|bacteria
+		Leuconostoc phage 2 HN-2013	19|bacteria
+		Leuconostoc phage L10	19|bacteria
+		Leuconostoc phage L5	19|bacteria
+		Leuconostoc phage P32	19|bacteria
+		Leuconostoc phage P37	19|bacteria
+		Leuconostoc phage P54	19|bacteria
+		Leuconostoc phage phi 1-A4	19|bacteria
+		Leuconostoc phage PZt11-15	19|bacteria
+		Listeria phage 20422-1	19|bacteria
+		Listeria phage 805405-1	19|bacteria
+		Listeria phage LP-083-1	19|bacteria
+		Listeria phage U153	19|bacteria
+		Loktanella phage pCB2051-A	19|bacteria
+		M13HT HaloTag-displaying helper phage	19|bacteria
+		Marine phage AC	19|bacteria
+		Marine phage EC	19|bacteria
+		Marine RNA phage MB	19|bacteria
+		Marinomonas phage P12026	19|bacteria
+		Methanobacterium phage Drs3	19|bacteria
+		Methylophilales phage HIM624-A	19|bacteria
+		Methylophilales phage pHIMB624-A	19|bacteria
+		Micromonospora phage pMLP1	19|bacteria
+		Mycobacterium phage Anubis	19|bacteria
+		Mycobacterium phage Ardmore	19|bacteria
+		Mycobacterium phage Badfish	19|bacteria
+		Mycobacterium phage Cuco	19|bacteria
+		Mycobacterium phage FRAT1	19|bacteria
+		Mycobacterium phage L1	19|bacteria
+		Mycobacterium phage Malithi	19|bacteria
+		Mycobacterium phage Ms6	19|bacteria
+		Mycobacterium phage Numberten	19|bacteria
+		Mycobacterium phage RidgeCB	19|bacteria
+		Mycoplasma phage MAV1	19|bacteria
+		Mycoplasma phage phiMFV1	19|bacteria
+		Nasonia vitripennis secondary endosymbiont phage	19|bacteria
+		Neisseria meningitidis phage 2120	19|bacteria
+		Nitrincola phage 1M3-16	19|bacteria
+		Nitrososphaera phage Pro-Nvie1	19|bacteria
+		Nocardia phage NOC1	19|bacteria
+		Nocardia phage NOC2	19|bacteria
+		Nocardia phage NOC3	19|bacteria
+		Novosphingobium phage N-AFCa0615-4	19|bacteria
+		Novosphingobium phage N-AFCa0615-5	19|bacteria
+		Novosphingobium phage N-AFCa0615-6	19|bacteria
+		Novosphingobium phage N-AFCa0628-10	19|bacteria
+		Novosphingobium phage N-AFCa0628-12	19|bacteria
+		Novosphingobium phage N-AFCa0707-17	19|bacteria
+		Novosphingobium phage N-AFCa0707-18	19|bacteria
+		Novosphingobium phage N-AFCa0707-83	19|bacteria
+		Novosphingobium phage N-AFCa0714-84	19|bacteria
+		Novosphingobium phage N-AFCa0802-23	19|bacteria
+		Novosphingobium phage N-AFCa0802-24	19|bacteria
+		Novosphingobium phage N-AFCa0802-56	19|bacteria
+		Novosphingobium phage N-AFCa0802-57	19|bacteria
+		Novosphingobium phage N-AFCa0802-85	19|bacteria
+		Novosphingobium phage N-AFCa0810-29	19|bacteria
+		Novosphingobium phage N-AFCa0810-30	19|bacteria
+		Novosphingobium phage N-AFCa0824-34	19|bacteria
+		Novosphingobium phage N-AFCa0824-35	19|bacteria
+		Novosphingobium phage N-AFCa0824-36	19|bacteria
+		Novosphingobium phage N-AFCa0901-41	19|bacteria
+		Novosphingobium phage N-AFCa0901-42	19|bacteria
+		Novosphingobium phage N-AFCa0901-90	19|bacteria
+		Novosphingobium phage N-AFCF0628-8	19|bacteria
+		Novosphingobium phage N-AFCF0628-9	19|bacteria
+		Novosphingobium phage N-AFCF0707-14	19|bacteria
+		Novosphingobium phage N-AFCF0707-15	19|bacteria
+		Novosphingobium phage N-AFCF0707-16	19|bacteria
+		Novosphingobium phage N-AFCF0714-51	19|bacteria
+		Novosphingobium phage N-AFCF0802-21	19|bacteria
+		Novosphingobium phage N-AFCF0802-22	19|bacteria
+		Novosphingobium phage N-AFCF0810-26	19|bacteria
+		Novosphingobium phage N-AFCF0824-32	19|bacteria
+		Novosphingobium phage N-AFCF0901-37	19|bacteria
+		Novosphingobium phage N-AFCF0901-89	19|bacteria
+		Novosphingobium phage N-AFCM0615-3	19|bacteria
+		Novosphingobium phage N-AFCM0628-11	19|bacteria
+		Novosphingobium phage N-AFCM0714-52	19|bacteria
+		Novosphingobium phage N-AFCM0802-86	19|bacteria
+		Novosphingobium phage N-AFCM0810-27	19|bacteria
+		Novosphingobium phage N-AFCM0810-28	19|bacteria
+		Novosphingobium phage N-AFCM0824-33	19|bacteria
+		Novosphingobium phage N-AFCM0901-40	19|bacteria
+		Novosphingobium phage N-AFCM0901-91	19|bacteria
+		Novosphingobium phage N-AFCM0913-47	19|bacteria
+		Novosphingobium phage N-AFNF0628-7	19|bacteria
+		Novosphingobium phage N-AFNF0707-13	19|bacteria
+		Novosphingobium phage N-AFNF0802-19	19|bacteria
+		Novosphingobium phage N-AFNF0802-20	19|bacteria
+		Novosphingobium phage N-AFNF0810-25	19|bacteria
+		Novosphingobium phage N-AFNF0824-31	19|bacteria
+		Novosphingobium phage N-AFNF0913-43	19|bacteria
+		Novosphingobium phage N-AFNF0922-55	19|bacteria
+		Novosphingobium phage N-An-FWCa0913-92	19|bacteria
+		Oenococcus phage EGM-2013	19|bacteria
+		Oenococcus phage fOg44	19|bacteria
+		Oenococcus phage phi9805	19|bacteria
+		Oenococcus phage phiS11	19|bacteria
+		Oenococcus phage phiS13	19|bacteria
+		Paenibacillus phage phiBP	19|bacteria
+		Paenibacillus phage phiIBB_Pl23	19|bacteria
+		Persicivirga phage P12024L	19|bacteria
+		Persicivirga phage P12024S	19|bacteria
+		Phage #D	19|bacteria
+		Phage 13	19|bacteria
+		Phage 16	19|bacteria
+		Phage 258-320	19|bacteria
+		Phage 3/14	19|bacteria
+		Phage CD630P1	19|bacteria
+		Phage CD630P1L	19|bacteria
+		Phage CD630P2	19|bacteria
+		Phage CD630P2L	19|bacteria
+		Phage Cz	19|bacteria
+		Phage D6E	19|bacteria
+		Phage display vector pTDisp	19|bacteria
+		Phage display vector pTScDisp	19|bacteria
+		Phage E	19|bacteria
+		Phage fuse 5	19|bacteria
+		Phage Gifsy-1	19|bacteria
+		Phage Gifsy-2	19|bacteria
+		Phage Gifsy-3	19|bacteria
+		Phage GMSE-1	19|bacteria
+		Phage h30	19|bacteria
+		Phage integrase vector pIPI03	19|bacteria
+		Phage LM4	19|bacteria
+		Phage N 209	19|bacteria
+		Phage NST1	19|bacteria
+		Phage phiC2	19|bacteria
+		Phage phiC2L	19|bacteria
+		Phage phiCD119	19|bacteria
+		Phage phiCD119L	19|bacteria
+		Phage phiCD27	19|bacteria
+		Phage phiCD27L	19|bacteria
+		Phage SK137	19|bacteria
+		Phage Swp3	19|bacteria
+		Phage TS2126	19|bacteria
+		Phormidium phage MIS-PhV1A	19|bacteria
+		Phormidium phage MIS-PhV1B	19|bacteria
+		Prevotella phage phi AR29	19|bacteria
+		Prochlorococcus phage P-GSP1	19|bacteria
+		Prochlorococcus phage P-RSP2	19|bacteria
+		Prochlorococcus phage P-SSP3	19|bacteria
+		Prochlorococcus phage Syn1	19|bacteria
+		Prochlorococcus phage Syn33	19|bacteria
+		Propionibacterium phage Pacnes 2012-15	19|bacteria
+		Propionibacterium phage PAS7	19|bacteria
+		Propionibacterium phage PAS8	19|bacteria
+		Propionibacterium phage PAS9	19|bacteria
+		Providencia phage Redjac	19|bacteria
+		Pseudoalteromonas phage B8b	19|bacteria
+		Pseudoalteromonas phage HM1	19|bacteria
+		Pseudoalteromonas phage HP1	19|bacteria
+		Pseudoalteromonas phage HS1	19|bacteria
+		Pseudoalteromonas phage HS2	19|bacteria
+		Pseudoalteromonas phage HS5	19|bacteria
+		Pseudoalteromonas phage HS6	19|bacteria
+		Pseudoalteromonas phage PSA-HM1	19|bacteria
+		Pseudoalteromonas phage PSA-HP1	19|bacteria
+		Pseudoalteromonas phage PSA-HS1	19|bacteria
+		Pseudoalteromonas phage PSA-HS2	19|bacteria
+		Pseudoalteromonas phage PSA-HS4	19|bacteria
+		Pseudoalteromonas phage PSA-HS5	19|bacteria
+		Pseudoalteromonas phage PSA-HS6	19|bacteria
+		Pseudoalteromonas phage PSA-HS9	19|bacteria
+		Pseudomonas phage DO4	19|bacteria
+		Pseudomonas phage DVM-2008	19|bacteria
+		Pseudomonas phage F_ET2439sp/ET602	19|bacteria
+		Pseudomonas phage F_ET2439sp/Pa1651	19|bacteria
+		Pseudomonas phage F_ET309sp/Pa1651	19|bacteria
+		Pseudomonas phage F_ET605sp/Pa1651	19|bacteria
+		Pseudomonas phage F_HA1208sp/Pa1651	19|bacteria
+		Pseudomonas phage F_HA1961sp/Pa1641	19|bacteria
+		Pseudomonas phage F_KK2074sp/Pa1651	19|bacteria
+		Pseudomonas phage F_MX1987sp/MX560	19|bacteria
+		Pseudomonas phage F_MX560sp/Pa1651	19|bacteria
+		Pseudomonas phage F_TK1718sp/PAK	19|bacteria
+		Pseudomonas phage F_TK1727sp/MX560	19|bacteria
+		Pseudomonas phage F_TK1932sp/Pa1651	19|bacteria
+		Pseudomonas phage F_TK432sp/Pa1651	19|bacteria
+		Pseudomonas phage H66	19|bacteria
+		Pseudomonas phage JBD23	19|bacteria
+		Pseudomonas phage JBD58a	19|bacteria
+		Pseudomonas phage JBD68	19|bacteria
+		Pseudomonas phage JBD88b	19|bacteria
+		Pseudomonas phage JBD90	19|bacteria
+		Pseudomonas phage JBD94b	19|bacteria
+		Pseudomonas phage JBDs5	19|bacteria
+		Pseudomonas phage MBL	19|bacteria
+		Pseudomonas phage NBRC 20024	19|bacteria
+		Pseudomonas phage P134	19|bacteria
+		Pseudomonas phage PA11	19|bacteria
+		Pseudomonas phage PA16	19|bacteria
+		Pseudomonas phage PA7	19|bacteria
+		Pseudomonas phage PAN70	19|bacteria
+		Pseudomonas phage PBSPCA1	19|bacteria
+		Pseudomonas phage PEV31	19|bacteria
+		Pseudomonas phage PEV32	19|bacteria
+		Pseudomonas phage Phi05_1400 B	19|bacteria
+		Pseudomonas phage phi2	19|bacteria
+		Pseudomonas phage phiPto-bp6g	19|bacteria
+		Pseudomonas phage PPA5	19|bacteria
+		Pseudomonas phage S	19|bacteria
+		Pseudomonas phage vB_PaeP_Tr60_Ab31	19|bacteria
+		Ralstonia phage P4282	19|bacteria
+		Rhizobium phage phiU	19|bacteria
+		Rhizobium phage RHEph03	19|bacteria
+		Rhizobium phage RHEph08	19|bacteria
+		Rhizobium phage RHEph09	19|bacteria
+		Rhizobium phage RHEph10	19|bacteria
+		Rhodobacter phage RcapNL	19|bacteria
+		Rhodobacter phage RcNL1	19|bacteria
+		Rhodococcus phage REQ2	19|bacteria
+		Rhodococcus phage REQ3	19|bacteria
+		Rhodovulum phage RS1	19|bacteria
+		Salicola phage CGphi29	19|bacteria
+		Salisaeta icosahedral phage 1	19|bacteria
+		Salmonella phage A1	19|bacteria
+		Salmonella phage A10a	19|bacteria
+		Salmonella phage A18a	19|bacteria
+		Salmonella phage Fels-1	19|bacteria
+		Salmonella phage FSL SP-016	19|bacteria
+		Salmonella phage FSL SP-126	19|bacteria
+		Salmonella phage KK-2013	19|bacteria
+		Salmonella phage SBA-1781	19|bacteria
+		Salmonella phage SPT-1	19|bacteria
+		Salmonella phage ST4	19|bacteria
+		Salmonella phage ST64B	19|bacteria
+		Salmonella phage STML-13-1	19|bacteria
+		Salmonella phage WOLAM	19|bacteria
+		Satellite phage RS1	19|bacteria
+		Selenomonas phage M1	19|bacteria
+		Silicibacter phage DSS3-P1	19|bacteria
+		Sinorhizobium phage PBC5	19|bacteria
+		Sodalis phage phiSG1	19|bacteria
+		Spalangia cameroni secondary endosymbiont phage	19|bacteria
+		Sphingomonas phage S-AFCa0824-71	19|bacteria
+		Sphingomonas phage S-AFCa0901-72	19|bacteria
+		Sphingomonas phage S-AFCF0802-69	19|bacteria
+		Sphingomonas phage S-AFNF0615-61	19|bacteria
+		Sphingomonas phage S-AFNF0810-70	19|bacteria
+		Staphylococcus phage 001	19|bacteria
+		Staphylococcus phage 002	19|bacteria
+		Staphylococcus phage 003	19|bacteria
+		Staphylococcus phage 004	19|bacteria
+		Staphylococcus phage 005	19|bacteria
+		Staphylococcus phage 006	19|bacteria
+		Staphylococcus phage phi-42	19|bacteria
+		Staphylococcus phage Phi05_1554 UV	19|bacteria
+		Staphylococcus phage Phi05_2289 M, S, UV	19|bacteria
+		Staphylococcus phage Phi06_2986 B	19|bacteria
+		Staphylococcus phage Phi06_3106 B	19|bacteria
+		Staphylococcus phage Phi06_3244 B	19|bacteria
+		Staphylococcus phage phi11	19|bacteria
+		Staphylococcus phage phi2958PVL	19|bacteria
+		Staphylococcus phage phi6390	19|bacteria
+		Staphylococcus phage phiB122	19|bacteria
+		Staphylococcus phage phiB557	19|bacteria
+		Staphylococcus phage phiH5	19|bacteria
+		Staphylococcus phage phiIBB-SEP1	19|bacteria
+		Staphylococcus phage phiPVL-CN125	19|bacteria
+		Staphylococcus phage phiSaST5K	19|bacteria
+		Staphylococcus phage phiWMY	19|bacteria
+		Staphylococcus phage PT1028	19|bacteria
+		Staphylococcus phage ROSA	19|bacteria
+		Staphylococcus phage SA11	19|bacteria
+		Staphylococcus phage SA4	19|bacteria
+		Staphylococcus phage SAP090B	19|bacteria
+		Staphylococcus phage SAP090D	19|bacteria
+		Staphylococcus phage tp310-1	19|bacteria
+		Staphylococcus phage tp310-3	19|bacteria
+		Stenotrophomonas phage phiSMA9	19|bacteria
+		Streptococcus phage 040922	19|bacteria
+		Streptococcus phage 1027 PZ-2009	19|bacteria
+		Streptococcus phage 1032 PZ-2009	19|bacteria
+		Streptococcus phage 1033 PZ-2009	19|bacteria
+		Streptococcus phage 1034 PZ-2009	19|bacteria
+		Streptococcus phage 1036 PZ-2009	19|bacteria
+		Streptococcus phage 1040 PZ-2009	19|bacteria
+		Streptococcus phage 1041 PZ-2009	19|bacteria
+		Streptococcus phage 1042 PZ-2009	19|bacteria
+		Streptococcus phage 11865	19|bacteria
+		Streptococcus phage 20617	19|bacteria
+		Streptococcus phage 2096.1	19|bacteria
+		Streptococcus phage 2096.2	19|bacteria
+		Streptococcus phage 2167	19|bacteria
+		Streptococcus phage 23782	19|bacteria
+		Streptococcus phage 34117	19|bacteria
+		Streptococcus phage 370.1	19|bacteria
+		Streptococcus phage 370.2	19|bacteria
+		Streptococcus phage 370.3	19|bacteria
+		Streptococcus phage 370.4	19|bacteria
+		Streptococcus phage 574 PZ-2009	19|bacteria
+		Streptococcus phage 575 PZ-2009	19|bacteria
+		Streptococcus phage 576 PZ-2009	19|bacteria
+		Streptococcus phage 591 PZ-2009	19|bacteria
+		Streptococcus phage 596 PZ-2009	19|bacteria
+		Streptococcus phage 603 PZ-2009	19|bacteria
+		Streptococcus phage 604 PZ-2009	19|bacteria
+		Streptococcus phage 605 PZ-2009	19|bacteria
+		Streptococcus phage 611 PZ-2009	19|bacteria
+		Streptococcus phage 616 PZ-2009	19|bacteria
+		Streptococcus phage 620 PZ-2009	19|bacteria
+		Streptococcus phage 641 PZ-2009	19|bacteria
+		Streptococcus phage 654 PZ-2009	19|bacteria
+		Streptococcus phage 671 PZ-2009	19|bacteria
+		Streptococcus phage 700P1	19|bacteria
+		Streptococcus phage 8140	19|bacteria
+		Streptococcus phage B30	19|bacteria
+		Streptococcus phage DCC1738	19|bacteria
+		Streptococcus phage IC1	19|bacteria
+		Streptococcus phage K13	19|bacteria
+		Streptococcus phage NZ131.1	19|bacteria
+		Streptococcus phage NZ131.2	19|bacteria
+		Streptococcus phage NZ131.3	19|bacteria
+		Streptococcus phage phi-m46.1	19|bacteria
+		Streptococcus phage phi-m46.2	19|bacteria
+		Streptococcus phage phi-SsUD.1	19|bacteria
+		Streptococcus phage phi1207.3	19|bacteria
+		Streptococcus phage phi20c	19|bacteria
+		Streptococcus phage phi30c	19|bacteria
+		Streptococcus phage phi5218	19|bacteria
+		Streptococcus phage phi7917	19|bacteria
+		Streptococcus phage phi891591	19|bacteria
+		Streptococcus phage phiBHN167	19|bacteria
+		Streptococcus phage phiD12	19|bacteria
+		Streptococcus phage phiS10	19|bacteria
+		Streptococcus phage phisc1	19|bacteria
+		Streptococcus phage PhiSpn_200	19|bacteria
+		Streptococcus phage phiSS12	19|bacteria
+		Streptococcus phage phiST1	19|bacteria
+		Streptococcus phage SOCP	19|bacteria
+		Streptococcus phage Spn1	19|bacteria
+		Streptococcus phage Str-PAP-1	19|bacteria
+		Streptococcus phage T12	19|bacteria
+		Streptococcus phage T270	19|bacteria
+		Streptococcus phage V22	19|bacteria
+		Streptococcus phi-m46.1-like phage MB56Spyo045	19|bacteria
+		Streptococcus pyogenes MGAS10270 phage	19|bacteria
+		Streptococcus pyogenes MGAS10750 phage	19|bacteria
+		Streptococcus pyogenes MGAS9429 phage	19|bacteria
+		Streptococcus pyogenes phage	19|bacteria
+		Streptococcus pyogenes phage 315.1	19|bacteria
+		Streptococcus pyogenes phage 315.2	19|bacteria
+		Streptococcus pyogenes phage 315.3	19|bacteria
+		Streptococcus pyogenes phage 315.4	19|bacteria
+		Streptococcus pyogenes phage 315.5	19|bacteria
+		Streptococcus pyogenes phage 315.6	19|bacteria
+		Streptococcus pyogenes phage 5005.1	19|bacteria
+		Streptococcus pyogenes phage 5005.2	19|bacteria
+		Streptococcus pyogenes phage 5005.3	19|bacteria
+		Streptococcus pyogenes phage 6180.2	19|bacteria
+		Streptococcus pyogenes phage 6180.3	19|bacteria
+		Streptococcus pyogenes phage 6180.4	19|bacteria
+		Streptococcus pyogenes phage H10403	19|bacteria
+		Streptococcus pyogenes phage H4489A	19|bacteria
+		Streptococcus pyogenes phage phiRamid	19|bacteria
+		Streptomyces phage phiK38-1	19|bacteria
+		Sulfitobacter phage NYA-2014a	19|bacteria
+		Sulfitobacter phage pCB2047-A	19|bacteria
+		Sulfitobacter phage pCB2047-C	19|bacteria
+		Synechococcus phage 27A	19|bacteria
+		Synechococcus phage 31B	19|bacteria
+		Synechococcus phage 32A	19|bacteria
+		Synechococcus phage 44A	19|bacteria
+		Synechococcus phage P12	19|bacteria
+		Synechococcus phage P17	19|bacteria
+		Synechococcus phage P6	19|bacteria
+		Synechococcus phage P77	19|bacteria
+		Synechococcus phage P79	19|bacteria
+		Synechococcus phage P81	19|bacteria
+		Synechococcus phage S	19|bacteria
+		Synechococcus phage S-CBP2	19|bacteria
+		Synechococcus phage S-CBP3	19|bacteria
+		Synechococcus phage S-EIVl	19|bacteria
+		Synechococcus phage SPGM99-02	19|bacteria
+		Synechococcus phage SPGM99-03	19|bacteria
+		Synechococcus phage SPGM99-04	19|bacteria
+		Synechococcus phage SPGM99-07	19|bacteria
+		Synechococcus phage SPGM99-08	19|bacteria
+		Synechococcus phage SPGM99-10	19|bacteria
+		Synechococcus phage SPGM99-11	19|bacteria
+		Synechococcus phage SPGM99-12	19|bacteria
+		Synechococcus phage SPGM99-14	19|bacteria
+		Synechococcus phage SPGM99-15	19|bacteria
+		Synechococcus phage SPGM99-16	19|bacteria
+		Synechococcus phage SPGM99-19	19|bacteria
+		Synechococcus phage SPGM99-20	19|bacteria
+		Synechococcus phage SPGM99-21	19|bacteria
+		Synechococcus phage SPGM99-24	19|bacteria
+		Synechococcus phage SPGM99-27	19|bacteria
+		Synechococcus phage SPGM99-28	19|bacteria
+		Synechococcus phage SPGM99-29	19|bacteria
+		Synechococcus phage SPGM99-30	19|bacteria
+		Synechococcus phage SPGM99-31	19|bacteria
+		Synechococcus phage SPGM99-39	19|bacteria
+		synthetic Enterobacteria phage phiX174.1f	19|bacteria
+		Tetrasphaera phage TJE1	19|bacteria
+		Thermus phage 2119	19|bacteria
+		Thermus phage 2631	19|bacteria
+		Thermus phage G18	19|bacteria
+		Thermus phage G20c	19|bacteria
+		Thermus phage IN93	19|bacteria
+		Thermus phage P23-77	19|bacteria
+		Thermus phage phi OH2	19|bacteria
+		Thermus phage phiFa	19|bacteria
+		Thermus phage T72	19|bacteria
+		Thermus phage TSP4	19|bacteria
+		Treponema phage phi td1	19|bacteria
+		Trialeurodes vaporariorum secondary endosymbiont phage	19|bacteria
+		Type 3 trypsin release phage display vector f3TR1	19|bacteria
+		Type 88 trypsin release phage display vector f88TR1	19|bacteria
+		uncultured aquatic phage	19|bacteria
+		uncultured marine phage	19|bacteria
+		uncultured Mediterranean phage MEDS1 group	19|bacteria
+		uncultured Mediterranean phage MEDS2 group	19|bacteria
+		uncultured Mediterranean phage MEDS3 group	19|bacteria
+		uncultured Mediterranean phage MEDS5 group	19|bacteria
+		uncultured Mediterranean phage uvMED	19|bacteria
+		uncultured phage	19|bacteria
+		uncultured phage crAssphage	19|bacteria
+		uncultured phage MedDCM-OCT-S01-C1	19|bacteria
+		uncultured phage MedDCM-OCT-S01-C104	19|bacteria
+		uncultured phage MedDCM-OCT-S01-C29	19|bacteria
+		uncultured phage MedDCM-OCT-S01-C58	19|bacteria
+		uncultured phage MedDCM-OCT-S04-C1035	19|bacteria
+		uncultured phage MedDCM-OCT-S04-C1161	19|bacteria
+		uncultured phage MedDCM-OCT-S04-C1201	19|bacteria
+		uncultured phage MedDCM-OCT-S04-C1220	19|bacteria
+		uncultured phage MedDCM-OCT-S04-C1227	19|bacteria
+		uncultured phage MedDCM-OCT-S04-C136	19|bacteria
+		uncultured phage MedDCM-OCT-S04-C148	19|bacteria
+		uncultured phage MedDCM-OCT-S04-C231	19|bacteria
+		uncultured phage MedDCM-OCT-S04-C24	19|bacteria
+		uncultured phage MedDCM-OCT-S04-C26	19|bacteria
+		uncultured phage MedDCM-OCT-S04-C348	19|bacteria
+		uncultured phage MedDCM-OCT-S04-C491	19|bacteria
+		uncultured phage MedDCM-OCT-S04-C507	19|bacteria
+		uncultured phage MedDCM-OCT-S04-C64	19|bacteria
+		uncultured phage MedDCM-OCT-S04-C650	19|bacteria
+		uncultured phage MedDCM-OCT-S04-C695	19|bacteria
+		uncultured phage MedDCM-OCT-S04-C714	19|bacteria
+		uncultured phage MedDCM-OCT-S04-C846	19|bacteria
+		uncultured phage MedDCM-OCT-S04-C890	19|bacteria
+		uncultured phage MedDCM-OCT-S04-C93	19|bacteria
+		uncultured phage MedDCM-OCT-S05-C113	19|bacteria
+		uncultured phage MedDCM-OCT-S05-C139	19|bacteria
+		uncultured phage MedDCM-OCT-S05-C22	19|bacteria
+		uncultured phage MedDCM-OCT-S05-C243	19|bacteria
+		uncultured phage MedDCM-OCT-S05-C353	19|bacteria
+		uncultured phage MedDCM-OCT-S05-C36	19|bacteria
+		uncultured phage MedDCM-OCT-S05-C429	19|bacteria
+		uncultured phage MedDCM-OCT-S05-C532	19|bacteria
+		uncultured phage MedDCM-OCT-S05-C64	19|bacteria
+		uncultured phage MedDCM-OCT-S05-C767	19|bacteria
+		uncultured phage MedDCM-OCT-S05-C849	19|bacteria
+		uncultured phage MedDCM-OCT-S06-C1041	19|bacteria
+		uncultured phage MedDCM-OCT-S08-C1115	19|bacteria
+		uncultured phage MedDCM-OCT-S08-C1281	19|bacteria
+		uncultured phage MedDCM-OCT-S08-C1441	19|bacteria
+		uncultured phage MedDCM-OCT-S08-C151	19|bacteria
+		uncultured phage MedDCM-OCT-S08-C159	19|bacteria
+		uncultured phage MedDCM-OCT-S08-C1615	19|bacteria
+		uncultured phage MedDCM-OCT-S08-C1731	19|bacteria
+		uncultured phage MedDCM-OCT-S08-C232	19|bacteria
+		uncultured phage MedDCM-OCT-S08-C233	19|bacteria
+		uncultured phage MedDCM-OCT-S08-C239	19|bacteria
+		uncultured phage MedDCM-OCT-S08-C304	19|bacteria
+		uncultured phage MedDCM-OCT-S08-C41	19|bacteria
+		uncultured phage MedDCM-OCT-S08-C495	19|bacteria
+		uncultured phage MedDCM-OCT-S08-C582	19|bacteria
+		uncultured phage MedDCM-OCT-S08-C620	19|bacteria
+		uncultured phage MedDCM-OCT-S08-C964	19|bacteria
+		uncultured phage MedDCM-OCT-S09-C14	19|bacteria
+		uncultured phage MedDCM-OCT-S09-C23	19|bacteria
+		uncultured phage MedDCM-OCT-S09-C28	19|bacteria
+		uncultured phage MedDCM-OCT-S09-C299	19|bacteria
+		uncultured phage MedDCM-OCT-S09-C37	19|bacteria
+		uncultured phage MedDCM-OCT-S09-C399	19|bacteria
+		uncultured phage MedDCM-OCT-S09-C5	19|bacteria
+		uncultured phage MedDCM-OCT-S09-C7	19|bacteria
+		uncultured phage MedDCM-OCT-S11-C149	19|bacteria
+		uncultured phage MedDCM-OCT-S11-C178	19|bacteria
+		uncultured phage MedDCM-OCT-S11-C1836	19|bacteria
+		uncultured phage MedDCM-OCT-S11-C349	19|bacteria
+		uncultured phage MedDCM-OCT-S11-C561	19|bacteria
+		uncultured phage MedDCM-OCT-S12-C102	19|bacteria
+		uncultured phage MedDCM-OCT-S12-C473	19|bacteria
+		uncultured phage MedDCM-OCT-S12-C496	19|bacteria
+		uncultured phage MedDCM-OCT-S12-C97	19|bacteria
+		uncultured Synechococcus phage	19|bacteria
+		unidentified phage	19|bacteria
+		VCSM13 AviTag-pVII modified interference-resistant helper phage	19|bacteria
+		VCSM13 FLAG-pVII modified interference-resistant helper phage	19|bacteria
+		VCSM13 HIS6-pVII modified interference-resistant helper phage	19|bacteria
+		VCSM13 interference-resistant helper phage	19|bacteria
+		Vibrio cholerae V86 phage	19|bacteria
+		Vibrio phage 1032	19|bacteria
+		Vibrio phage 4e	19|bacteria
+		Vibrio phage 512	19|bacteria
+		Vibrio phage 5312	19|bacteria
+		Vibrio phage 5486	19|bacteria
+		Vibrio phage 5e	19|bacteria
+		Vibrio phage 6e	19|bacteria
+		Vibrio phage AS51	19|bacteria
+		Vibrio phage CL40	19|bacteria
+		Vibrio phage douglas 12A4	19|bacteria
+		Vibrio phage eugene 12A10	19|bacteria
+		Vibrio phage f237	19|bacteria
+		Vibrio phage helene 12B3	19|bacteria
+		Vibrio phage henriette 12B8	19|bacteria
+		Vibrio phage HybRS-Knphi	19|bacteria
+		Vibrio phage ICP3_2009_A	19|bacteria
+		Vibrio phage jenny 12G5	19|bacteria
+		Vibrio phage KA-2007	19|bacteria
+		Vibrio phage martha 12B12	19|bacteria
+		Vibrio phage phiMOD2.33-NB	19|bacteria
+		Vibrio phage phiMOD4.00-MOD2	19|bacteria
+		Vibrio phage phiMOD4.00-OM	19|bacteria
+		Vibrio phage phiMOD5.14-OM	19|bacteria
+		Vibrio phage phiMOD5.18-NB	19|bacteria
+		Vibrio phage phiNB9-OM	19|bacteria
+		Vibrio phage phiST4-ST	19|bacteria
+		Vibrio phage PWH3a-P1	19|bacteria
+		Vibrio phage pYD21-A	19|bacteria
+		Vibrio phage pYD38-A	19|bacteria
+		Vibrio phage qdvp001	19|bacteria
+		Vibrio phage SB-2014a	19|bacteria
+		Vibrio phage TLC-Kn1	19|bacteria
+		Vibrio phage VBM1	19|bacteria
+		Vibrio phage VBpm10	19|bacteria
+		Vibrio phage VD1	19|bacteria
+		Vibrio phage VH-P22	19|bacteria
+		Vibrio phage VP_EVC_2013	19|bacteria
+		Vibrio phage VPp1	19|bacteria
+		Wolbachia endosymbiont wVitA of Nasonia vitripennis phage WOVitA1	19|bacteria
+		Wolbachia endosymbiont wVitA of Nasonia vitripennis phage WOVitA2	19|bacteria
+		Wolbachia endosymbiont wVitA of Nasonia vitripennis phage WOVitA4	19|bacteria
+		Wolbachia endosymbiont wVitB of Nasonia vitripennis phage WOVitB	19|bacteria
+		Wolbachia phage RCS-2010	19|bacteria
+		Wolbachia phage WO	19|bacteria
+		Wolbachia phage WOcauB1	19|bacteria
+		Xanthomonas phage XacF1	19|bacteria
+		Xanthomonas phage Xo411	19|bacteria
+		Xanthomonas phage Xp15	19|bacteria

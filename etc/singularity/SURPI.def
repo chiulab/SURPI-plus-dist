@@ -1,0 +1,33 @@
+Bootstrap: localimage
+From: SURPI_base.sqsh
+
+#############
+# SURPI 
+#############
+
+%apphelp SURPI
+Run 'singularity run --app SURPI SURPI.sqsh'
+
+%apprun SURPI
+exec SURPI.sh "$@"
+
+%appfiles SURPI
+SURPI
+
+%appenv SURPI
+# NOTE this environment is invoked at run-time only
+PATH=$PATH:${SCIF_APPROOT}/SURPI
+export PATH
+
+%appinstall SURPI
+
+# fastq (source vendored)
+cd ${SCIF_APPROOT}/SURPI/src/github.com/brentp/bio-playground
+g++ -O2 -o fastq fastq.cpp
+install fastq /usr/local/bin
+
+# fqextract (source vendored)
+cd ${SCIF_APPROOT}/SURPI/src/fqextract
+gcc fqextract.c -o fqextract
+install fqextract /usr/local/bin
+

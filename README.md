@@ -62,7 +62,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 1. Configure a server
 2. Make the SURPI container image
 3. Build the reference dataset
-4. Download example fastq file from NCBI
+4. Download an example fastq file from NCBI, e.g., https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR8580936
 5. Run SURPI on the fastq file
 6. Examine results as `.annotated` and/or `.counttable` files
 
@@ -77,27 +77,26 @@ sudo make SURPI.sqsh
 
 ## Instructions for building reference data
 
-- mkdir `<reference folder>`
-- cd `<reference folder>`
-- REFERENCE="`<reference folder path>`"
-- IMAGE="`<SURPI container image path>`"
+Substitute actual values for bracketed items. The reference data will take approximately 24 hours to build.
 ```
+mkdir <reference folder>
+cd <reference folder>
+REFERENCE="<reference folder path>"
+IMAGE="<SURPI container image path>"
 singularity exec --app SURPI --bind ${REFERENCE} ${IMAGE} bash -c "cp -r /scif/apps/SURPI/SURPI/etc/reference/* ${REFERENCE}"
 singularity exec --app SURPI --bind ${REFERENCE} ${IMAGE} bash -c "make -C ${REFERENCE} all"
 ```
 
-NOTE: Temporary directory usage will be hight. Set and export `TMPDIR` environment variable as needed and include in Singularity bind mounts.
-
 ## Instructions for running SURPI container
 
-- mkdir `<run folder>`
-- cp `<fastq file>` `<run folder>`
-- cd `<run folder>`
-- REFERENCE="`<reference folder path>`"
-- RUN="`<run folder path>`"
-- IMAGE="`<SURPI container image path>`"
+Substitute actual values for bracketed items. The pipeline can take several hours to run.
 ```
+mkdir <run folder>
+cp <fastq file> <run folder>
+cd <run folder>
+REFERENCE="<reference folder path>"
+RUN="<run folder path>"
+IMAGE="<SURPI container image path>"
 singularity run --bind "${REFERENCE},${RUN}" --app SURPI ${IMAGE} -z <fastq file>
 singularity run --bind "${REFERENCE},${RUN}" --app SURPI ${IMAGE} -f <run config>
 ```
-NOTE: Singularity bind mounts must encompass temporary directory in config file (/tmp is default mount).

@@ -52,11 +52,23 @@ Link: https://github.com/hoytech/vmtouch
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANT ABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
+## Hardware & Software Requirements
+
+- Linux server, tested Ubuntu 16.04 with 512 GB memory, 5 TB disk volume
+- Singularity (https://www.sylabs.io), tested v2.5.2
+
+## Getting started
+
+1. Configure a server
+2. Make the SURPI container image
+3. Build the reference dataset
+4. Download example fastq file from NCBI
+5. Run SURPI on the fastq file
+6. Examine results as `.annotated` and/or `.counttable` files
 
 ## Instructions for making SURPI container
 
-- Linux server, tested Ubuntu 16.04
-- Install Singularity (https://www.sylabs.io), tested v2.5.2
+Clone the GitHub repository and create the Singularity image file:
 ```
 git clone https://github.com/chiulab/SURPI-plus-dist.git SURPI
 cp SURPI/etc/singularity/Makefile .

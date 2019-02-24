@@ -76,7 +76,7 @@ snap_hg38/snap_index_Homo_sapiens.GRCh38.dna_sm.primary_assembly_s$(HUMAN_SEED)/
 
 snap_primate/snap_nt_curated_primate.FASTA/Genome: build/nt_curated_primate.FASTA
 	mkdir -p snap_primate
-	cd snap_primate && snap-dev index ../build/nt_curated_primate.FASTA snap_nt_curated_primate.FASTA -locationSize $(CURATED_LOCATION_SIZE)
+	cd snap_primate && snap-dev index ../build/nt_curated_primate.FASTA snap_nt_curated_primate.FASTA -bSpace -locationSize $(CURATED_LOCATION_SIZE)
 
 #
 # snap no primate mapping database
@@ -96,7 +96,7 @@ COMP_SNAP_no_primate/snap_index_nt_curated_primate_subtracted.FASTA.1/Genome: bu
 		rm -rf snap_index_nt_curated_primate_subtracted.* ; \
 		for f in ../build/nt_curated_primate_subtracted.FASTA.* ; do \
 			n=`basename "$$f"` ; \
-			snap-dev index "$$f" "snap_index_$$n" -locationSize $(CURATED_LOCATION_SIZE) ; \
+			snap-dev index "$$f" "snap_index_$$n" -bSpace -locationSize $(CURATED_LOCATION_SIZE) ; \
 			done
 
 build/nt_curated_primate_subtracted.FASTA.1: build/nt_curated_primate_subtracted.FASTA | build

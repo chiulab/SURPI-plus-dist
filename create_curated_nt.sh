@@ -147,10 +147,13 @@ echo -e "$(date)\t$scriptname\tTaxonomic gb list creation took $diff_gb_list_cre
 # accession-only fastas already have format
 if [[ ${GI} -eq 1 ]]; then
 	START_header_cleanup=$(date +%s)
-	# clean up headers to remove all except for gi and description
+	# clean up headers to remove all except for first gi and description
+	# exclude accessions, etc
+	# >gi|174432|gb|K00218.1|ECOTRI2 E.coli Ile-tRNA-2
+	# becomes >gi|174432| E.coli Ile-tRNA-2
 	# need desciption for bolt lookup database
 	echo -e "$(date)\t$scriptname\tShrinking headers..."
-	sed "s/^\(>gi|[0-9]\+|\).*|\s\(.*\)$/\1 \2/" "$nt_FASTA" > "${nt_FASTA}.reducedheaders"
+	sed "s/.*//" "$nt_FASTA" | sed "s/^\(>gi|[0-9]\+|\)\S*\s\+/\1 /" > "${nt_FASTA}.reducedheaders"
 	END_header_cleanup=$(date +%s)
 	diff_header_cleanup=$(( END_header_cleanup - START_header_cleanup ))
 	echo -e "$(date)\t$scriptname\tHeader cleanup took $diff_header_cleanup seconds"

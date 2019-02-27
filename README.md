@@ -55,7 +55,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 ## Hardware & Software Requirements
 
 - Linux server, tested Ubuntu 16.04 with 512 GB memory, 5 TB disk volume
-- Singularity (https://www.sylabs.io), tested v2.5.2
+- Singularity (https://www.sylabs.io), tested v2.6.1
 
 ## Getting started
 

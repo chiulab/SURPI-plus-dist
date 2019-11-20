@@ -37,6 +37,9 @@ LC_ALL=en_US.UTF-8
 export LANGUAGE LC_ALL
 
 ### prerequisites for specific packages downloaded later
+# install python2.7 compatible numpy before biopython
+# https://github.com/pypa/pip/issues/6667
+pip install numpy==1.16.4
 pip install biopython==1.72
 # samtools
 apt-get install -y libncurses5-dev libbz2-dev liblzma-dev
